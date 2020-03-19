@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f0b5bc1-46a3-4d78-a9e0-afbe656ab5e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/html/1-request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/html/..py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/axfproject/__init__.py" />
+        <option value="$USER_HOME$/Desktop/axf-master/project/axf/templates/base.html" />
+        <option value="$PROJECT_DIR$/static/main/js/base.js" />
+        <option value="$USER_HOME$/django/axf/static/css/base_main.css" />
+        <option value="$PROJECT_DIR$/axfproject/urls.py" />
+        <option value="$PROJECT_DIR$/static/main/css/base.css" />
+        <option value="$PROJECT_DIR$/static/home/js/home.js" />
+        <option value="$PROJECT_DIR$/static/home/css/home.css" />
+        <option value="$PROJECT_DIR$/templates/axfproject/home.html" />
+        <option value="$PROJECT_DIR$/static/market/css/market.css" />
+        <option value="$PROJECT_DIR$/templates/axfproject/base.html" />
+        <option value="$PROJECT_DIR$/templates/axfproject/market.html" />
+        <option value="$PROJECT_DIR$/static/mine/css/mine.css" />
+        <option value="$USER_HOME$/Desktop/axf-master/project/axf/static/app/mine/js/mine.js" />
+        <option value="$PROJECT_DIR$/static/mine/js/mine.js" />
+        <option value="$PROJECT_DIR$/static/mine/js/login.js" />
+        <option value="$PROJECT_DIR$/static/mine/css/login.css" />
+        <option value="$PROJECT_DIR$/templates/axfproject/login.html" />
+        <option value="$PROJECT_DIR$/axfapp/forms/login.py" />
+        <option value="$PROJECT_DIR$/static/mine/css/register.css" />
+        <option value="$PROJECT_DIR$/static/mine/js/register.js" />
+        <option value="$PROJECT_DIR$/templates/axfproject/register.html" />
+        <option value="$PROJECT_DIR$/axfproject/settings.py" />
+        <option value="$PROJECT_DIR$/templates/axfproject/mine.html" />
+        <option value="$PROJECT_DIR$/static/cart/css/cart.css" />
+        <option value="$PROJECT_DIR$/static/cart/js/cart.js" />
+        <option value="$PROJECT_DIR$/axfapp/urls.py" />
+        <option value="$PROJECT_DIR$/axfapp/views.py" />
+        <option value="$PROJECT_DIR$/static/market/js/market.js" />
+        <option value="$PROJECT_DIR$/templates/axfproject/cart.html" />
+        <option value="$PROJECT_DIR$/axfapp/models.py" />
+        <option value="$USER_HOME$/Desktop/html/..py" />
+        <option value="$USER_HOME$/Desktop/html/1-request.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1131" />
+    <option name="y" value="35" />
+    <option name="width" value="793" />
+    <option name="height" value="967" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/html/1-request.py" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.1-request">
+    <configuration name="1-request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="axfproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/html" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/html/1-request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="." type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="axfproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/html" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/html/..py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="axfproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="axfproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="axfproject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1-request" />
+        <item itemvalue="Python.." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f0b5bc1-46a3-4d78-a9e0-afbe656ab5e3" name="Default Changelist" comment="" />
+      <created>1582953215228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582953215228</updated>
+      <workItem from="1582953216339" duration="1464000" />
+      <workItem from="1582954907754" duration="1789000" />
+      <workItem from="1582956717266" duration="1790000" />
+      <workItem from="1582958526254" duration="1791000" />
+      <workItem from="1582960344486" duration="1803000" />
+      <workItem from="1582962172710" duration="1950000" />
+      <workItem from="1582964211621" duration="1798000" />
+      <workItem from="1582966041898" duration="1783000" />
+      <workItem from="1582967848190" duration="1789000" />
+      <workItem from="1582969668370" duration="1783000" />
+      <workItem from="1582971476109" duration="1085000" />
+      <workItem from="1583030517187" duration="1787000" />
+      <workItem from="1583032326753" duration="1792000" />
+      <workItem from="1583034145031" duration="1229000" />
+      <workItem from="1583035994196" duration="705000" />
+      <workItem from="1583038348952" duration="929000" />
+      <workItem from="1583040163509" duration="1793000" />
+      <workItem from="1583041978296" duration="1788000" />
+      <workItem from="1583043789211" duration="1795000" />
+      <workItem from="1583045609578" duration="1426000" />
+      <workItem from="1583047440462" duration="1782000" />
+      <workItem from="1583049253585" duration="2213000" />
+      <workItem from="1583051602374" duration="1231000" />
+      <workItem from="1583053414369" duration="1799000" />
+      <workItem from="1583056092687" duration="1167000" />
+      <workItem from="1583060005096" duration="8000" />
+      <workItem from="1583114489230" duration="1253000" />
+      <workItem from="1583116295368" duration="1861000" />
+      <workItem from="1583118180425" duration="1789000" />
+      <workItem from="1583119988537" duration="1792000" />
+      <workItem from="1583121801305" duration="1791000" />
+      <workItem from="1583123678598" duration="1794000" />
+      <workItem from="1583125497844" duration="1785000" />
+      <workItem from="1583127306702" duration="1531000" />
+      <workItem from="1583129294447" duration="1573000" />
+      <workItem from="1583131109468" duration="1037000" />
+      <workItem from="1583132917411" duration="1790000" />
+      <workItem from="1583134734350" duration="1197000" />
+      <workItem from="1583136542799" duration="1790000" />
+      <workItem from="1583138364177" duration="1246000" />
+      <workItem from="1583140188080" duration="599000" />
+      <workItem from="1583142741835" duration="1596000" />
+      <workItem from="1583144559541" duration="1779000" />
+      <workItem from="1583146369215" duration="1783000" />
+      <workItem from="1583148176613" duration="546000" />
+      <workItem from="1583197446708" duration="1789000" />
+      <workItem from="1583199255307" duration="1884000" />
+      <workItem from="1583201233866" duration="1790000" />
+      <workItem from="1583203045281" duration="2155000" />
+      <workItem from="1583205917079" duration="1788000" />
+      <workItem from="1583207731683" duration="1787000" />
+      <workItem from="1583209543704" duration="1761000" />
+      <workItem from="1583211353564" duration="1812000" />
+      <workItem from="1583213188840" duration="1788000" />
+      <workItem from="1583214999266" duration="1788000" />
+      <workItem from="1583216809166" duration="1663000" />
+      <workItem from="1583218639136" duration="1931000" />
+      <workItem from="1583220594089" duration="1225000" />
+      <workItem from="1583227435815" duration="1436000" />
+      <workItem from="1583229241338" duration="857000" />
+      <workItem from="1583231063157" duration="404000" />
+      <workItem from="1583994842921" duration="1398000" />
+      <workItem from="1583997932282" duration="2198000" />
+      <workItem from="1584002549277" duration="1115000" />
+      <workItem from="1584004847634" duration="1352000" />
+      <workItem from="1584063155149" duration="1539000" />
+      <workItem from="1584068073084" duration="1426000" />
+      <workItem from="1584070958837" duration="1883000" />
+      <workItem from="1584073578362" duration="1915000" />
+      <workItem from="1584076566420" duration="1549000" />
+      <workItem from="1584078579461" duration="1228000" />
+      <workItem from="1584081638428" duration="877000" />
+      <workItem from="1584085923554" duration="702000" />
+      <workItem from="1584095269135" duration="607000" />
+      <workItem from="1584152051567" duration="1335000" />
+      <workItem from="1584161368896" duration="1789000" />
+      <workItem from="1584163178387" duration="1790000" />
+      <workItem from="1584165123815" duration="1829000" />
+      <workItem from="1584168135815" duration="879000" />
+      <workItem from="1584169949711" duration="1825000" />
+      <workItem from="1584171796988" duration="1796000" />
+      <workItem from="1584173618157" duration="1650000" />
+      <workItem from="1584175526713" duration="933000" />
+      <workItem from="1584181411727" duration="523000" />
+      <workItem from="1584336040781" duration="1590000" />
+      <workItem from="1584337843728" duration="1090000" />
+      <workItem from="1584339957863" duration="2029000" />
+      <workItem from="1584342857575" duration="1799000" />
+      <workItem from="1584344711206" duration="1798000" />
+      <workItem from="1584346542381" duration="2226000" />
+      <workItem from="1584351162305" duration="1786000" />
+      <workItem from="1584352981540" duration="1393000" />
+      <workItem from="1584354868993" duration="1053000" />
+      <workItem from="1584366774267" duration="1029000" />
+      <workItem from="1584368589459" duration="1880000" />
+      <workItem from="1584370490216" duration="1814000" />
+      <workItem from="1584433910662" duration="1788000" />
+      <workItem from="1584435720377" duration="1565000" />
+      <workItem from="1584437893839" duration="1788000" />
+      <workItem from="1584439703958" duration="1694000" />
+      <workItem from="1584441597043" duration="642000" />
+      <workItem from="1584503528040" duration="1854000" />
+      <workItem from="1584505408993" duration="897000" />
+      <workItem from="1584509877626" duration="605000" />
+      <workItem from="1584512218308" duration="1671000" />
+      <workItem from="1584515213969" duration="1041000" />
+      <workItem from="1584518085563" duration="1855000" />
+      <workItem from="1584520000638" duration="1860000" />
+      <workItem from="1584521881497" duration="2058000" />
+      <workItem from="1584583520699" duration="750000" />
+      <workItem from="1584586869996" duration="1884000" />
+      <workItem from="1584589057537" duration="669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="168905000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1131" y="35" width="793" height="967" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.040927693" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27458033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.264988" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/axfproject$_.coverage" NAME=". Coverage Results" MODIFIED="1584523283413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/html" />
+    <SUITE FILE_PATH="coverage/axfproject$1_request.coverage" NAME="1-request Coverage Results" MODIFIED="1584588159265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/html" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/main/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/static/js/base.js" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/static/app/user/js/user_login.js" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/static/app/user/js/user_register.js" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/templates/home/home.html" />
+    <entry file="file://$PROJECT_DIR$/static/home/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/axf-master/resources/static/app/market/market.css" />
+    <entry file="file://$PROJECT_DIR$/static/main/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/axfproject/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="117" column="71" selection-start-line="117" selection-start-column="71" selection-end-line="117" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/home/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/axf-master/resources/templates/market/market.html" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/app/urls.py" />
+    <entry file="file://$PROJECT_DIR$/static/market/css/market.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/templates/mine/mine.html" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/static/app/mine/mine.css" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/static/app/mine/js/mine.js" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/templates/user/user_login.html" />
+    <entry file="file://$PROJECT_DIR$/static/mine/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/js/login.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/axfapp/forms/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/templates/user/user_register.html" />
+    <entry file="file://$PROJECT_DIR$/templates/axfproject/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/static/app/user/css/user.css" />
+    <entry file="file://$PROJECT_DIR$/templates/axfproject/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/axfproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2709">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/axfproject/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/js/mine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/css/mine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3318">
+          <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/axfproject/mine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3276">
+          <caret line="156" column="32" selection-start-line="156" selection-start-column="32" selection-end-line="156" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/static/app/cart/cart.css" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/templates/cart/cart.html" />
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/static/app/cart/js/cart.js" />
+    <entry file="file://$PROJECT_DIR$/axfapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/axf-master/project/axf/app/models.py" />
+    <entry file="file://$PROJECT_DIR$/static/market/js/market.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="47" column="71" selection-start-line="47" selection-start-column="71" selection-end-line="47" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/axfapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/axfapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="130" column="16" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/axfproject/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="63" column="57" selection-start-line="63" selection-start-column="57" selection-end-line="63" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/cart/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="165" column="2" selection-start-line="165" selection-start-column="2" selection-end-line="165" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/cart/css/cart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/axfapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/axfproject/market.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/ba_name/ba_name_1.html" />
+    <entry file="file://$USER_HOME$/Desktop/html/ba_name/python_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5103" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/ba_name/python_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3302">
+          <caret line="1240" selection-start-line="1240" selection-end-line="1240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/7-handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/1-request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/..py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
